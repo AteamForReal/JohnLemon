@@ -4,4 +4,5 @@ Created by Aaron Davidson, Alexander Lynn, Paul Saturno, Carson Scarboro.
   In addition, we added a timer as a constraint for the player. If the player is unable to make it to the end of the mansion, the game will restart and the player will be right back where they started. All of our scripts are under the folder "JohnLemonUpdated."
   https://github.com/AteamForReal/JohnLemon
   
+  Link to Youtube video: https://youtu.be/nUXzNZhcr5Q
   
